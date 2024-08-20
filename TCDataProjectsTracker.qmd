@@ -6,6 +6,20 @@ toc: TRUE
 
 ## Introduction
 
+This document will allow readers to track the data team's activity and accomplishments.
+
+::: {.callout-note collapse="true"}
+
+### Project Details
+
+Each project description will adhere to the format:\
+Title:\
+Description:\
+Frequency of generation:\
+Current status:\
+Staff:
+:::
+
 ## Proposed Projects
 
 ## Current Projects
