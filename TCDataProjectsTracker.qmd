@@ -1,0 +1,15 @@
+---
+title: "TotalCare Data Projects"
+date: today
+toc: TRUE
+---
+
+## Introduction
+
+## Proposed Projects
+
+## Current Projects
+
+## Persistent Projects
+
+## Completed Projects
