@@ -9,20 +9,47 @@ toc: TRUE
 This document will allow readers to track the data team's activity and accomplishments.
 
 ::: {.callout-note collapse="true"}
-
 ### Project Details
 
 Each project description will adhere to the format:\
-Title:\
-Description:\
+**Description:\
+Time Commitment:\
 Frequency of generation:\
 Current status:\
-Staff:
+Staff:**
 :::
 
 ## Proposed Projects
 
+### IDR
+
+**Description:** We want to assist the billing department in optimizing their IDR reimbursements by optimizing IDR requests.\
+**Time commitment:** This will likely take a large amount of time. The data is likely not sufficiently cleaned and may not be easily available. This project will require a high degree of reliability and may be computationally difficult.\
+**Frequency of generation:** Dynamic\
+**Current status:** Idea\
+**Staff:** Entire data team + Karis leadership\
+
+### Kenya Data
+
+**Description:** We want to develop a dataset that allows the TotalCare Foundation and TotalCare Rapha to optimize their activities to a data-centric outcome. This will likely include working with Kenyan public health authorities and may include Kenyan data collaborators, as well.\
+**Time commitment:** Large\
+**Frequency of generation:** Periodic (possibly weekly or monthly)\
+**Current status:** Idea\
+**Staff:** Tom, Fabienne, TC Rapha, TC Foundation
+
+### URI Treatments
+
+**Description:** We want to aggregate treatments and orders for URI patients and put these in a format we can disseminate to area physicians behind a login portal. The purpose will initially be marketing (but quality control is a later possibility).\
+**Time commitment:** Medium. We actually have most of this data, already. It will likely need some reformatting. Most importantly, without a dissemination mechanism, it is not very useful.\
+**Frequency of generation:** Periodic - likely weekly\
+Current status: Idea (though some of the work is already done)\
+**Staff:** Tom
+
 ## Current Projects
+
+### Marketing Modeling
+
+Description:
 
 ## Persistent Projects
 
